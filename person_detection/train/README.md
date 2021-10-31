@@ -15,7 +15,7 @@
 cd {rep}/person_detection/train/
 docker build -t person_detection_train:0.1 .
 ```
-4. Запустите докейр-контейнер для обучения:
+4. Запустите докер-контейнер для обучения:
 ```bash
 cd {rep}/person_detection/train/
 nvidia-docker run --ipc=host -it -v "$PWD"/evraz_data:/usr/src/app/evraz_data -v "$PWD"/output:/usr/src/app/runs person_detection_train:0.1
