@@ -7,3 +7,9 @@
 
 Пример работы второй нейросети:
 <img src="https://sun9-53.userapi.com/impg/0g7Na__mDVfS87cez4A9Slr8dfpKe7_b15c-vA/R3SpXg4lQp8.jpg?size=1920x1080&quality=96&sign=7f77c896eb99ed5e6f617099dac09263&type=album" alt="drawing" width="800"/>
+
+Обе нейросети основаны на популярной архитектуре Yolo V5.
+
+# Ссылки на используемые внешние ресурсы
+Архитектура Yolo v5: https://github.com/ultralytics/yolov5. Лицензия: GNU General Public License v3.0 (разрешает коммерческое использование)
+Скрипт для перегонки YOLO формата разметки в COCO формат: https://github.com/Taeyoung96/Yolo-to-COCO-format-converter. Лицензия: MIT License (разрешает коммерческое использование)
