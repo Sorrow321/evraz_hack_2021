@@ -7,6 +7,7 @@
 ./Dockerfile
 ./evraz.yaml
 ./train.sh
+./output/
 ./evraz_data/images/
 ./evraz_data/labels/
 ```
