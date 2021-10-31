@@ -45,5 +45,5 @@ init_seeds(0)
 Скрипт для перегонки YOLO формата разметки в COCO формат: https://github.com/Taeyoung96/Yolo-to-COCO-format-converter. Лицензия: MIT License (разрешает коммерческое использование)
 
 ## Окружение
-20.04.1-Ubuntu
+20.04.1-Ubuntu<br>
 NVIDIA: Driver Version: 470.74 CUDA Version: 11.4
