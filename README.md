@@ -43,3 +43,7 @@ init_seeds(0)
 ## Ссылки на используемые внешние ресурсы
 Архитектура Yolo v5: https://github.com/ultralytics/yolov5. Лицензия: GNU General Public License v3.0 (разрешает коммерческое использование)<br>
 Скрипт для перегонки YOLO формата разметки в COCO формат: https://github.com/Taeyoung96/Yolo-to-COCO-format-converter. Лицензия: MIT License (разрешает коммерческое использование)
+
+## Окружение
+20.04.1-Ubuntu
+NVIDIA: Driver Version: 470.74 CUDA Version: 11.4
